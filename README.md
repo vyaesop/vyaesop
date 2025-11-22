@@ -1,8 +1,8 @@
-# 🪽 Olyad Kassim
+# 🪽 Olyad.
 
 **`Full-stack Developer (WEB & MOBILE apps)`**
 
-I'm full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With experience across the full development cycle from UI/UX implementation to backend logic and API integration, I bring a holistic approach to every project. My work focuses on performance, clean architecture, and seamless cross-platform experiences.
+I’m a full-stack web and mobile developer with expertise in Next.js, React, and Flutter, dedicated to building fast, scalable, and intuitive digital products. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With experience across the full development cycle from UI/UX implementation to backend logic and API integration, I bring a holistic approach to every project. My work focuses on performance, clean architecture, and seamless cross-platform experiences.
 
 ---
 
@@ -25,13 +25,6 @@ I'm full-stack developer building my version of the digital world one step at a 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-### 📊 Stats
-
-![Olyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 

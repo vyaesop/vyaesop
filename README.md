@@ -1,4 +1,4 @@
-# 🪽 Olyad.
+# 🪽 Christian.
 
 **`Full-stack Developer (WEB & MOBILE apps)`**
 
@@ -26,6 +26,4 @@ I’m a full-stack developer with expertise in Next.js, React, and Flutter, dedi
 <br />
 
 
-#
 
-[linkedin]: https://www.linkedin.com/in/olyad-kassim-407919295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
